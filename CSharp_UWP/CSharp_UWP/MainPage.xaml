@@ -9,6 +9,7 @@
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
     <Grid>
+        <Button x:Name="button" Content="Hello Jacob!&#xD;&#xA;" Margin="271,276,0,0" VerticalAlignment="Top" Click="Button_Click" Height="58" Width="197"/>
 
     </Grid>
 </Page>
